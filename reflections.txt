@@ -32,3 +32,7 @@ could break something?
 Now that you have your workspace set up, what do you want to try using Git for?
 
 	My brother's got a project on GitHub. I want to try it, see if it works, comment his code, and ultimately make additions.
+
+How is the staging area different from your working directory and the repository? What value do you think it offers?
+
+	The staging area allows the user to collect files to commit them all at once. This is an improvement over collecting all files and committing everything, including irrelevant files such as notes and test programs.
