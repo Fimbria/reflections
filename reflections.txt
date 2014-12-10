@@ -37,3 +37,6 @@ How is the staging area different from your working directory and the repository
 
 	The staging area allows the user to collect files to commit them all at once. This is an improvement over collecting all files and committing everything, including irrelevant files such as notes and test programs. 
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+	You can use git diff to check any changes in the staging area to make sure they are all a single logical change.
