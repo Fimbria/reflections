@@ -44,3 +44,8 @@ How can you use the staging area to make sure you have one commit per logical ch
 What are some situations when brnaches would be helpful in keeping your history organized? How would branches help?
 
 	When creating logically disconnected variations of the main program, branches will mark when you made that change and help track both lines.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	Merging branches starts with the main branch, modifies all lines that either branch modifies, adds all lines that either branch adds, and deletes all lines that either branch deletes. If there are any conflicts, the merge won't go through. There is no guarantee that the result will work properly, but apparently that's an edge case and easily fixed.
+
