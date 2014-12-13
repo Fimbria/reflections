@@ -1,0 +1,6 @@
+When would you want to use a remote repository rather than keeping all your work local?
+  I would want to do that if I could trust that my work was not significant enough to capture the interest of anyone capable of accessing it on the remote site. In that case, it would have exactly the same benefits of the internet, allowing people to share files quickly and at a distance.
+  
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+	If there were many people working on a project, automatic updates could make random changes that would prevent me from working effectively on the master branch. I would have to work exclusively on side branches, which nullifies any benefit of updating.
